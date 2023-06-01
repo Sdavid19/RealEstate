@@ -1,0 +1,9 @@
+F:\David\Suli\Vizsga\RealEstate\RealEstate\bin\Debug\realestates.csv
+F:\David\Suli\Vizsga\RealEstate\RealEstate\bin\Debug\RealEstate.exe.config
+F:\David\Suli\Vizsga\RealEstate\RealEstate\bin\Debug\RealEstate.exe
+F:\David\Suli\Vizsga\RealEstate\RealEstate\bin\Debug\RealEstate.pdb
+F:\David\Suli\Vizsga\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.AssemblyReference.cache
+F:\David\Suli\Vizsga\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.SuggestedBindingRedirects.cache
+F:\David\Suli\Vizsga\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.CoreCompileInputs.cache
+F:\David\Suli\Vizsga\RealEstate\RealEstate\obj\Debug\RealEstate.exe
+F:\David\Suli\Vizsga\RealEstate\RealEstate\obj\Debug\RealEstate.pdb
